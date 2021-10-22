@@ -1,0 +1,72 @@
+@import 'partials/reset';
+@import 'partials/prefix-mixins';
+@import 'partials/layout'; // responsive grid and media queries
+
+ @import url('https://fonts.googleapis.com/css2?family=Seaweed+Script&display=swap');
+
+
+// color palette - these colors will be the color swatches of the Colors section
+
+@import 'partials/colors';
+// fonts
+@import 'partials/fonts';
+/* -------------------------------- 
+
+xBackground 
+
+-------------------------------- */
+
+@import 'partials/background';
+/* -------------------------------- 
+
+xPatterns
+
+-------------------------------- */
+
+@import 'partials/patterns';
+
+/* -------------------------------- 
+
+xNavigation 
+
+-------------------------------- */
+
+@import 'partials/navigation';
+
+/* -------------------------------- 
+
+xPage title 
+
+-------------------------------- */
+
+@import 'partials/title';
+
+/* -------------------------------- 
+
+xTypography 
+
+-------------------------------- */
+@import 'partials/typography';
+
+/* -------------------------------- 
+
+xButtons 
+
+-------------------------------- */
+
+@import 'partials/buttons';
+
+/* -------------------------------- 
+
+xIcons 
+
+-------------------------------- */
+
+
+/* -------------------------------- 
+
+xForm 
+
+-------------------------------- */
+
+@import 'partials/basic-style';
